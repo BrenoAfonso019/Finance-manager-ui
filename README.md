@@ -18,4 +18,4 @@ Interface moderna e intuitiva para controle financeiro pessoal, desenvolvida com
 ## 💻 Como Executar Localmente
 1. Clone o repositório:
    ```bash
-   git clone [https://github.com/SEU-USUARIO/finance-manager-web.git](https://github.com/SEU-USUARIO/finance-manager-web.git)
+   git clone [https://github.com/BrenoAfonso019/finance-manager-web.git](https://github.com/BrenoAfonso019/finance-manager-web.git)
